@@ -36,14 +36,6 @@ class Program
 
     static void Aufgabe4()
     {
-        Console.WriteLine("Gebt eine Zahl im Wertebereich von short ein");
-        short short_Number = Convert.ToInt16(Console.ReadLine());
-        Console.WriteLine("Geben sie auch noch eine Zahl im Wertebereich von double ein");
-        double double_Number = Convert.ToDouble(Console.ReadLine());
-        Console.WriteLine(short_Number);
-        Console.WriteLine(double_Number);
-        
-        
         static void MyQue()
         {
 
